@@ -13,8 +13,6 @@ This project provides a script to load and use pre-trained machine learning mode
 5. [Dataset](#dataset)
 6. [Configuration](#configuration)
 7. [Examples](#examples)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
