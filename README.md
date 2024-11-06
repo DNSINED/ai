@@ -31,7 +31,7 @@ Each model predicts based on different datasets provided. The predictions are in
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/DNSINED/MedEcho.git
    ```
 2. **Install dependencies**:
    Make sure you have Python installed, then install necessary libraries:
@@ -78,11 +78,3 @@ python ai.py
 ```
 
 The script will output predictions based on the input data.
-
-## Contributing
-
-Feel free to open issues or pull requests if you have suggestions or improvements.
-
-## License
-
-[Specify license here, e.g., MIT License]
